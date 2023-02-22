@@ -9,3 +9,5 @@ Only multiple choice conversion is supported as of now
 ```shell
 py togift.py input.txt ouput.gift
 ```
+
+warning: `output.gift` will be overwritten if it already exists
